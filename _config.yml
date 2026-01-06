@@ -2,23 +2,21 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: # Leave this empty so it uses your name automatically
+title: # Leave empty to use your name
 first_name: Jonghyun
 middle_name: ""
 last_name: Park
 
 contact_note: >
-  # You can leave this empty or add a note like "I am on the job market 2025-2026."
   
 description: PhD Candidate in Economics at Virginia Tech. My research interests include Social Networks and Social Learning.
 
 footer_text: >
   Copyright &copy; 2026 Jonghyun Park. Powered by <a href="https://github.com/alshedivat/al-folio">al-folio</a>.
 
-keywords: economics, game theory, social networks, virginia tech, phd candidate # Updated to match your profile
 
 lang: en
-icon: 🎓 # You can change this emoji if you want (e.g., to 🎓 or 📈)
+icon: 🎓
 
 url: https://jonghyun-econ.github.io # the base hostname & protocol for your site
 baseurl: "" # the subpath of your site, e.g. /blog/. Leave blank for root
