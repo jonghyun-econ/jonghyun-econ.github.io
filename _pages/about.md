@@ -2,7 +2,7 @@
 layout: about
 title: home
 permalink: /
-subtitle: <b style="font-size: 25px;">Jonghyun Park</b> # <--- This puts your NAME in big text
+subtitle: "<b style='font-size: 25px;'>Jonghyun Park</b>" # <--- Quotes added here to fix the error
 
 profile:
   align: right
