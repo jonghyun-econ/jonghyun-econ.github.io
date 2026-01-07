@@ -22,8 +22,8 @@ description:
 **Price and Markets** (Graduate), *Virginia Tech*
 * Fall 2024 
 
-**Game Theory**, *Virginia Tech*
+**Game Theory** (Undergraduate), *Virginia Tech*
 * Fall 2024, Fall 2025
 
-**Microeconomic Theory**, *Virginia Tech*
+**Microeconomic Theory** (Undergraduate), *Virginia Tech*
 * Spring 2024, Spring 2025
