@@ -21,7 +21,7 @@ footer_text: >
 
 email: jongh2410@vt.edu
 # We leave the others blank to force them to disappear:
-linkedin_username: 
+linkedin_username: false
 google_scholar_id: 
 github_username: 
 twitter_username: 
