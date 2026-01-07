@@ -14,7 +14,7 @@ profile:
     <p>Blacksburg, VA 24061</p>
 
 news: false
-social: true
+social: false
 ---
 
 This is where you write your actual biography. 
