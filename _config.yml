@@ -20,13 +20,13 @@ footer_text: >
 # -----------------------------------------------------------------------------
 
 email: jongh2410@vt.edu
-# We leave the others blank to force them to disappear:
-linkedin_username: false
+# We leave these blank to force them to hide:
+linkedin_username: 
 google_scholar_id: 
 github_username: 
 twitter_username: 
 rss_icon: false
-cv_url:  # <--- LEAVE THIS BLANK. We added a manual link in Step 1.
+cv_url:
 
 lang: en
 icon: 🎓
