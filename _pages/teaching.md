@@ -2,11 +2,28 @@
 layout: page
 permalink: /teaching/
 title: Teaching
-description: Materials for courses you taught. Replace this text with your description.
 nav: true
-nav_order: 6
+nav_order: 3
+description:
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+## Instructor
 
-Organize your courses by years, topics, or universities, however you like!
+**Microeconomic Theory** (Undergraduate), *Virginia Tech*
+* Summer 2024, Summer 2025
+
+---
+
+## Teaching Assistant
+
+**Game Theory** (PhD), *Virginia Tech*
+* Fall 2025 
+
+**Price and Markets** (PhD Core), *Virginia Tech*
+* Fall 2024 
+
+**Game Theory**, *Virginia Tech*
+* Fall 2024, Fall 2025
+
+**Microeconomic Theory**, *Virginia Tech*
+* Spring 2024, Spring 2025
