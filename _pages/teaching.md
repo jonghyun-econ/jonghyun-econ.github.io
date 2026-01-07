@@ -16,10 +16,10 @@ description:
 
 ## Teaching Assistant
 
-**Game Theory** (PhD), *Virginia Tech*
+**Game Theory** (Graduate), *Virginia Tech*
 * Fall 2025 
 
-**Price and Markets** (PhD Core), *Virginia Tech*
+**Price and Markets** (Graduate), *Virginia Tech*
 * Fall 2024 
 
 **Game Theory**, *Virginia Tech*
