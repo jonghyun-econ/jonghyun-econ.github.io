@@ -19,10 +19,8 @@ social: true # This keeps the email/scholar icons
 
 This is where you write your actual biography. 
 
-I am a PhD candidate in Economics at Virginia Tech. My research interests lie in the intersection of **Game Theory** and **Social Networks**.
+I am a PhD candidate in Economics at Virginia Tech. My research interests lie in the intersection of **Social Learning** and **Social Networks**.
 
 In my job market paper, I explore how noise affects signaling in dense networks.
 
 [Download my CV](/assets/pdf/cv.pdf)
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
