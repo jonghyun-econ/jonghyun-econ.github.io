@@ -2,7 +2,7 @@
 layout: about
 title: home
 permalink: /
-subtitle: Subtitle
+subtitle: <b style="font-size: 25px;">Jonghyun Park</b> # <--- This puts your NAME in big text
 
 profile:
   align: right
@@ -16,7 +16,6 @@ profile:
 news: false
 social: true
 ---
-
 
 I am a PhD candidate in Economics at Virginia Tech. My research interests lie in the intersection of **Social Learning** and **Social Networks**.
 
