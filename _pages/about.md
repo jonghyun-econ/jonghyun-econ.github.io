@@ -1,8 +1,11 @@
 ---
 layout: about
-title: home
+title: Home      # <--- This is the name that appears in the Menu
 permalink: /
-subtitle: "<b style='font-size: 25px;'>Jonghyun Park</b>" # <--- Quotes added here to fix the error
+subtitle: "<b style='font-size: 25px;'>Jonghyun Park</b>" # <--- Quotes added to prevent error
+
+nav: true        # <--- This forces the "Home" button to stay in the menu
+nav_order: 1     # <--- This ensures it stays on the far left
 
 profile:
   align: right
@@ -14,7 +17,7 @@ profile:
     <p>Blacksburg, VA 24061</p>
 
 news: false
-social: true
+social: true    # <--- We keep this TRUE so the email icon works
 ---
 
 I am a PhD candidate in Economics at Virginia Tech. My research interests lie in the intersection of **Social Learning** and **Social Networks**.
