@@ -2,7 +2,7 @@
 layout: about
 title: home
 permalink: /
-subtitle: PhD Candidate in Economics at Virginia Tech
+subtitle: Jonghyun Park
 
 profile:
   align: right
@@ -17,7 +17,6 @@ news: false
 social: true
 ---
 
-This is where you write your actual biography. 
 
 I am a PhD candidate in Economics at Virginia Tech. My research interests lie in the intersection of **Social Learning** and **Social Networks**.
 
