@@ -15,6 +15,19 @@ footer_text: >
   Copyright &copy; 2026 Jonghyun Park. Powered by <a href="https://github.com/alshedivat/al-folio">al-folio</a>.
 
 
+# -----------------------------------------------------------------------------
+# Social integration
+# -----------------------------------------------------------------------------
+# social_ids are used to generate the social icons on the about page.
+# Comment out (add #) to the ones you do NOT want to see.
+
+email: jongh2410@vt.edu  # <--- KEEP THIS
+# linkedin_username: yourusername  # <--- HASHTAG (#) REMOVES IT
+# google_scholar_id: yourid        # <--- HASHTAG (#) REMOVES IT
+#github_username: Jonghyun19       # <--- KEEP THIS
+# twitter_username:               # <--- REMOVED
+# rss_icon: true                  # <--- REMOVED
+
 lang: en
 icon: 🎓
 
