@@ -2,7 +2,7 @@
 layout: about
 title: home
 permalink: /
-subtitle: **Jonghyun Park**
+subtitle: Subtitle
 
 profile:
   align: right
