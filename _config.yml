@@ -18,15 +18,15 @@ footer_text: >
 # -----------------------------------------------------------------------------
 # Social integration
 # -----------------------------------------------------------------------------
-# social_ids are used to generate the social icons on the about page.
-# Comment out (add #) to the ones you do NOT want to see.
 
-email: jongh2410@vt.edu  # <--- KEEP THIS
-# linkedin_username: yourusername  # <--- HASHTAG (#) REMOVES IT
-# google_scholar_id: yourid        # <--- HASHTAG (#) REMOVES IT
-#github_username: Jonghyun19       # <--- KEEP THIS
-# twitter_username:               # <--- REMOVED
-# rss_icon: true                  # <--- REMOVED
+email: jongh2410@vt.edu
+# We leave the others blank to force them to disappear:
+linkedin_username: 
+google_scholar_id: 
+github_username: 
+twitter_username: 
+rss_icon: false
+cv_url:  # <--- LEAVE THIS BLANK. We added a manual link in Step 1.
 
 lang: en
 icon: 🎓
