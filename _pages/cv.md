@@ -1,11 +1,18 @@
 ---
-layout: cv
+layout: page
 permalink: /cv/
-title: cv
+title: CV
 nav: true
-nav_order: 5
-cv_pdf: example_pdf.pdf # you can also use external links here
-description: This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
-toc:
-  sidebar: left
+nav_order: 4
+description:
+---
+
+You can download my full Curriculum Vitae below.
+
+<h3>
+  <a href="{{ site.baseurl }}/assets/pdf/cv.pdf" target="_blank">
+    <i class="fas fa-file-pdf"></i> Download CV (PDF)
+  </a>
+</h3>
+
 ---
