@@ -11,11 +11,12 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false
+  # We can leave the address here, but if it doesn't show, 
+  # the text below covers it.
   address: >
     <p>Department of Economics</p>
     <p>Virginia Tech</p>
     <p>Blacksburg, VA 24061</p>
-    <p><b>Email:</b> jongh2410@vt.edu</p>
 
 news: false
 social: false
@@ -26,3 +27,7 @@ I am a PhD candidate in Economics at Virginia Tech. My research interests lie in
 In my job market paper, I explore how noise affects signaling in dense networks.
 
 <a href="/assets/pdf/cv.pdf" target="_blank">Download my CV</a>
+
+<br>
+
+Email: <a href="mailto:jongh2419@vt.edu">jongh2419@vt.edu</a>
