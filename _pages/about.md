@@ -15,7 +15,7 @@ profile:
     <p>Department of Economics</p>
     <p>Virginia Tech</p>
     <p>Blacksburg, VA 24061</p>
-    <p><b>Email:</b> jongh2419@vt.edu</p>  # <--- I added it here!
+    <p><b>Email:</b> jongh2410@vt.edu</p>
 
 news: false
 social: false
