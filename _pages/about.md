@@ -1,10 +1,10 @@
 ---
 layout: about
-title: Home      # <--- Capitalized "Home" (Fixes the lowercase "home")
+title: Home
 permalink: /
 subtitle: "<b style='font-size: 25px;'>Jonghyun Park</b>"
 
-nav: false       # <--- CHANGED TO FALSE. This removes the duplicate button.
+nav: false
 nav_order: 1
 
 profile:
@@ -15,9 +15,10 @@ profile:
     <p>Department of Economics</p>
     <p>Virginia Tech</p>
     <p>Blacksburg, VA 24061</p>
+    <p><b>Email:</b> jongh2419@vt.edu</p>  # <--- I added it here!
 
 news: false
-social: false     # <--- Keep TRUE here. We fix the icons in Step 2.
+social: false
 ---
 
 I am a PhD candidate in Economics at Virginia Tech. My research interests lie in the intersection of **Social Learning** and **Social Networks**.
