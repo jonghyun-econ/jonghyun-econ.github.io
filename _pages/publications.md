@@ -27,7 +27,7 @@ nav_order: 2
 <br>
 
 **<a href="/assets/pdf/paper2.pdf" target="_blank">Information Overload Under Rational Learning</a>**
-<br> *with Sudipta Sarangi, and Hector Tzavellas*
+<br> *with <a href="https://www.sudiptasarangi.com" target="_blank">Sudipta Sarangi</a>, and <a href="https://sites.google.com/view/hectortzavellas/home" target="_blank">Hector Tzavellas</a>*
 <br> <a href="/assets/pdf/paper2.pdf" target="_blank">[Download PDF]</a>
 
 ---
@@ -35,4 +35,4 @@ nav_order: 2
 ## Work in Progress
 
 *A Citizen Candidate Model with Public Funding**
-<br> *with Euncheol Shin*
+<br> *with <a href="https://sites.google.com/site/euncheolshin00/" target="_blank">Euncheol Shin</a>*
