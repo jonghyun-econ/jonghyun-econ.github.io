@@ -21,7 +21,7 @@ nav_order: 2
 ## Working Papers
 
 **<a href="/assets/pdf/paper1.pdf" target="_blank">Learning Networks</a>**
-<br> *with Promit K. Chaudhuri, Sudipta Sarangi, and Hector Tzavellas)*
+<br> *with <a href="https://www.promitkchaudhuri.com/home" target="_blank">Promit K. Chaudhuri</a>, <a href="https://www.sudiptasarangi.com" target="_blank">Sudipta Sarangi</a>, and <a href="https://sites.google.com/view/hectortzavellas/home" target="_blank">Hector Tzavellas</a>*
 <br> <a href="/assets/pdf/paper1.pdf" target="_blank">[Download PDF]</a>
 
 <br>
