@@ -34,5 +34,5 @@ nav_order: 2
 
 ## Work in Progress
 
-*A Citizen Candidate Model with Public Funding**
+*A Citizen Candidate Model with Public Funding*
 <br> *with <a href="https://sites.google.com/site/euncheolshin00/" target="_blank">Euncheol Shin</a>*
