@@ -17,13 +17,13 @@ description:
 ## Teaching Assistant
 
 **Game Theory** (Graduate), *Virginia Tech*
-* Fall 2025 
+* Fall (2024, 2025) 
 
 **Price and Markets** (Graduate), *Virginia Tech*
-* Fall 2024 
+* Fall (2024), Spring (2026) 
 
 **Game Theory** (Undergraduate), *Virginia Tech*
-* Fall 2024, Fall 2025
+* Fall (2024, 2025)
 
 **Microeconomic Theory** (Undergraduate), *Virginia Tech*
-* Spring 2024, Spring 2025
+* Spring (2024, 2025, 2026)
