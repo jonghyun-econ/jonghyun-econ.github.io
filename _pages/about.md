@@ -26,7 +26,7 @@ I am a PhD candidate in Economics at Virginia Tech. My research interests lie in
 
 In my job market paper, I explore social learning in networks when communication is restricted to a finite vocabulary.
 
-<a href="/assets/pdf/cv.pdf" target="_blank">Download my CV</a>
+<a href="/assets/pdf/Jonghyun_CV.pdf" target="_blank">Download my CV</a>
 
 <br>
 
