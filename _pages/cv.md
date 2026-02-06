@@ -10,7 +10,7 @@ description:
 You can download my full Curriculum Vitae below.
 
 <h3>
-  <a href="{{ site.baseurl }}/assets/pdf/cv.pdf" target="_blank">
+  <a href="{{ site.baseurl }}/assets/pdf/Jonghyun_CV.pdf" target="_blank">
     <i class="fas fa-file-pdf"></i> Download CV (PDF)
   </a>
 </h3>
