@@ -8,7 +8,7 @@ nav_order: 2
 
 ## Job Market Paper
 
-<h3><a href="https://drive.google.com/file/d/1LxGHSsOiY-M8sgGuxLghtsE8EjFbqJkT/view?usp=sharing" target="_blank">Social Learning with Coarse Communication</a></h3>
+<h3><a href="https://drive.google.com/file/d/1LxGHSsOiY-M8sgGuxLghtsE8EjFbqJkT/view?usp=sharing" target="_blank">Finite Communication and the Nonmonotone Value of Mixing</a></h3>
 
 **Abstract:** This paper studies social learning when agents hold real-valued private assessments but communicate through finite messages. Because messages change only when assessments cross category thresholds, private evidence can affect an agent's assessment without becoming visible to others. We show that this finite-communication friction can make social mixing nonmonotone. More mixing helps lagging agents hear from agents who are closer to the true state, but it also pulls those state-aligned agents toward the population average before their assessments are fully reflected in messages. In a block-mixing society with two initially different groups, low mixing preserves segmentation, moderate mixing generates state-aligned consensus, and excessive mixing generates non state-aligned consensus. The last outcome is inefficient because the society becomes trapped in an intermediate message even though private evidence continues to arrive. Thus, under finite communication, better connectivity need not improve learning: too much averaging can suppress the disagreement needed for informative message changes to occur.
 
