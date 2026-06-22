@@ -25,8 +25,7 @@ social: false
 I am a PhD candidate in Economics at Virginia Tech. My research interests lie in the intersection of **Social Learning** and **Social Networks**.
 
 In my job market paper, I explore social learning in networks when communication is restricted to a finite vocabulary. 
-<a href="https://drive.google.com/file/d/1LxGHSsOiY-M8sgGuxLghtsE8EjFbqJkT/view?usp=sharing" target="_blank"> [Here is my JMP]</a>
-
+<a href="{{ '/assets/pdf/Social Learning with Coarse Communication.pdf' | relative_url }}" target="_blank"> [Here is my JMP]</a>
 <a href="{{ '/assets/pdf/Jonghyun_CV.pdf' | relative_url }}" target="_blank">Download my CV</a>
 
 <br>
