@@ -7,13 +7,11 @@ first_name: Jonghyun
 middle_name: ""
 last_name: Park
 
-contact_note: >
-  
+contact_note: ""
 description: PhD Candidate in Economics at Virginia Tech. My research interests include Social Networks and Social Learning.
 
 footer_text: >
   Copyright &copy; 2026 Jonghyun Park. Powered by <a href="https://github.com/alshedivat/al-folio">al-folio</a>.
-
 
 # -----------------------------------------------------------------------------
 # Social integration
@@ -21,10 +19,10 @@ footer_text: >
 
 email: jongh2410@vt.edu
 # We leave these blank to force them to hide:
-linkedin_username: 
-google_scholar_id: 
-github_username: 
-twitter_username: 
+linkedin_username:
+google_scholar_id:
+github_username:
+twitter_username:
 rss_icon: false
 cv_url:
 
