@@ -22,10 +22,10 @@ news: false
 social: false
 ---
 
-I am a PhD candidate in Economics at Virginia Tech. My research interests lie in the intersection of **Social Learning** and **Social Networks**.
+I am a PhD candidate in Economics at Virginia Tech. I am a microeconomic theorist working on **information economics** and **social learning**. My research studies how the representation, processing, access, and communication of information shape beliefs and decisions, both individually and in social and strategic environments.
 
-In my job market paper, I explore social learning in networks when communication is restricted to a finite vocabulary. 
-<a href="{{ '/assets/pdf/Finite Communication and the Nonmonotone Value of Mixing.pdf' | relative_url }}" target="_blank"> [Here is my JMP]</a>
+In my job market paper, I explore how recursively compressing beliefs into marginal assessments can distort Bayesian learning. I characterize when this compression can lead to false certainty and when marginal records are sufficient to reproduce full Bayesian updating.
+<a href="{{ '/assets/pdf/Recursive Bayesian Compression and False Certainty.pdf' | relative_url }}" target="_blank"> [Here is my JMP]</a>
 
 <a href="{{ '/assets/pdf/Jonghyun_CV.pdf' | relative_url }}" target="_blank">Download my CV</a>
 
