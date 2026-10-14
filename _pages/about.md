@@ -28,6 +28,7 @@ In my job market paper, I explore how recursively compressing beliefs into margi
 <a href="{{ '/assets/pdf/Recursive Bayesian Compression and False Certainty.pdf' | relative_url }}" target="_blank"> [Here is my JMP]</a>
 
 <a href="{{ '/assets/pdf/Jonghyun_CV.pdf' | relative_url }}" target="_blank">Download my CV</a>
+<a href="{{ '/assets/pdf/Jonghyun_Research.pdf' | relative_url }}" target="_blank">Download my Research Statement</a>
 
 <br>
 
