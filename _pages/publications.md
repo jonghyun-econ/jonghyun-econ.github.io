@@ -26,7 +26,7 @@ My research is in **microeconomic theory**, with a focus on **information econom
 - **<a href="{{ '/assets/pdf/Free Disposal with Costly Access.pdf' | relative_url }}" target="_blank">Free Disposal with Costly Access</a>**  
   *with <a href="https://www.sudiptasarangi.com" target="_blank">Sudipta Sarangi</a> and <a href="https://sites.google.com/view/hectortzavellas/home" target="_blank">Hector Tzavellas</a>*
 
-- **<a href="{{ '/assets/pdf/Network Uncertainty and Learning from Local Observations.pdf' | relative_url }}" target="_blank">Network Uncertainty and Learning from Local Observations</a>**  
+- **<a href="{{ '/assets/pdf/Network Uncertainty and Learning from Local Observations.pdf' | relative_url }}" target="_blank">Learning Networks</a>**  
   *with <a href="https://www.promitkchaudhuri.com/home" target="_blank">Promit K. Chaudhuri</a>, <a href="https://www.sudiptasarangi.com" target="_blank">Sudipta Sarangi</a>, and <a href="https://sites.google.com/view/hectortzavellas/home" target="_blank">Hector Tzavellas</a>*
 
 ---
