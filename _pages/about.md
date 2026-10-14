@@ -27,8 +27,8 @@ I am a PhD candidate in Economics at Virginia Tech. I am a microeconomic theoris
 In my job market paper, I explore how recursively compressing beliefs into marginal assessments can distort Bayesian learning. I characterize when this compression can lead to false certainty and when marginal records are sufficient to reproduce full Bayesian updating.
 <a href="{{ '/assets/pdf/Recursive Bayesian Compression and False Certainty.pdf' | relative_url }}" target="_blank"> [Here is my JMP]</a>
 
-<a href="{{ '/assets/pdf/Jonghyun_CV.pdf' | relative_url }}" target="_blank">Download my CV</a>
-<a href="{{ '/assets/pdf/Jonghyun_Research.pdf' | relative_url }}" target="_blank">Download my Research Statement</a>
+<a href="{{ '/assets/pdf/Jonghyun_CV.pdf' | relative_url }}" target="_blank">[Download my CV]</a>
+<a href="{{ '/assets/pdf/Jonghyun_Research.pdf' | relative_url }}" target="_blank">[Download my Research Statement]</a>
 
 <br>
 
