@@ -20,7 +20,7 @@ My research is in **microeconomic theory**, with a focus on **information econom
 
 - **<a href="{{ '/assets/pdf/Network Uncertainty and Learning from Local Observations.pdf' | relative_url }}" target="_blank">Learning Networks</a>**  
   *with <a href="https://www.promitkchaudhuri.com/home" target="_blank">Promit K. Chaudhuri</a>, <a href="https://www.sudiptasarangi.com" target="_blank">Sudipta Sarangi</a>, and <a href="https://sites.google.com/view/hectortzavellas/home" target="_blank">Hector Tzavellas</a>*  
-  <span style="color: #A23B3B; font-weight: 600;">Revise and resubmit, <em>Games and Economic Behavior</em></span>
+<span style="color: #A23B3B; font-weight: 600;">Revise and resubmit, <em style="color: inherit; font-weight: inherit;">Games and Economic Behavior</em></span>
   
 - **<a href="{{ '/assets/pdf/Finite Communication and the Nonmonotone Value of Network Mixing.pdf' | relative_url }}" target="_blank">Finite Communication and the Nonmonotone Value of Network Mixing</a>**
 
